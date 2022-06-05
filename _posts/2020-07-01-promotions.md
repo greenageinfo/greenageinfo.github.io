@@ -11,7 +11,7 @@ comments: false
 
 This rate chart details the different promotion channels and events available at Greenage and the associated charges from Greenage Owners Association (GOA).
 
-##### Available Channels for Promotions and Events 
+##### Available Channels for Promotions and Events
 - <a href="#ads">Physical and Digital Advertisements</a>
 - <a href="#stall">On Premises Promotion Stall</a>
 - <a href="#fleamarket">Flea Market</a>

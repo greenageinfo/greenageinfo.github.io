@@ -2,7 +2,7 @@
 .bundle
 .jekyll-cache
 .jekyll-metadata
-.obsidian
+.vs
 _site
 
 # Ignore hidden folders #
@@ -12,7 +12,6 @@ _site
 # Ignore OS generated files #
 .DS_Store*
 ehthumbs.db
-Icon?
 Thumbs.db
 
 # Ignore packages #

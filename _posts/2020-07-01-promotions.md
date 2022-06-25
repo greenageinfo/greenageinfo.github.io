@@ -17,7 +17,7 @@ This rate chart details the different promotion channels and events available at
 - <a href="#fleamarket">Flea Market</a>
 
 
-###### Physical and Digital Advertisements
+###### Physical Advertisements
 
 <table class="table table-striped table-bordered" style="width:100%; font-size:0.8em">
        <thead>
@@ -85,14 +85,6 @@ This rate chart details the different promotion channels and events available at
         <td>4000</td>
         <td>10000</td>
         <td>24000</td>
-    </tr>
-    <tr>
-        <td>Digital Ad</td>
-        <td>Apnacomplex</td>
-        <td>Digital</td>
-        <td>2000</td>
-        <td>5000</td>
-        <td>18000</td>
     </tr>
     <tfoot><tr><td colspan="6">All rates in INR exlusive of GST</td></tr></tfoot>
 </table>

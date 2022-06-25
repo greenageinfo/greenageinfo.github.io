@@ -54,6 +54,7 @@ comments: false
 ##### Multi-purpose Party Halls and Meeting Rooms
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/greenagepic18.jpg" alt="Greenage Amenities" /></p>
 <li>Party Halls - in Juniper and Hibiscus</li>
+<li>Tea Pavilion - in the central garden area</li>
 <li>Meeting Rooms - in Cedar and Juniper Blocks</li>
 
 <p></p>

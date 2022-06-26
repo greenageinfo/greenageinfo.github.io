@@ -54,7 +54,16 @@ comments: false
 ##### Multi-purpose Party Halls and Meeting Rooms
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/greenagepic18.jpg" alt="Greenage Amenities" /></p>
 <li>Party Halls - in Juniper and Hibiscus</li>
+<li>Tea Pavilion - in the central garden area</li>
 <li>Meeting Rooms - in Cedar and Juniper Blocks</li>
+
+<p></p>
+
+##### Library
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/greenagepic29.png" alt="Greenage Amenities" /></p>
+<p><a href="{{ site.baseurl }}/library/"> Greenage Library</a>, located in Juniper block, boasts of <a href="{{ site.baseurl }}/library/books" target="_new">3500+ fiction, non-fiction and children books</a>. You can also read newspapers and magazines in the Library. 
+</p>
+
 
 <p></p>
 

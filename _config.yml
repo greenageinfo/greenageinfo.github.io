@@ -72,7 +72,15 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude:
+  - .jekyll-cache/
+  - .sass-cache/
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - gemfiles/
+  - LICENSE.*
+  - README.*
 
 # Google Analytics
 google_analytics: G-9GC87LCFVC

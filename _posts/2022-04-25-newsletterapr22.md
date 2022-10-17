@@ -4,8 +4,8 @@ title:  "Newsletter - April 2022"
 author: Admin
 categories: [updates]
 image: assets/images/updates/apr22/greenagepic23.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 

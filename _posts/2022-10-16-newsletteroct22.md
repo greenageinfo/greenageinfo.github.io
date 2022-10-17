@@ -16,7 +16,7 @@ Warm greetings to all Greenagians. It is October and as we bring out the third a
 
 #### Events and Celebrations
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/updates/oct22/greenagewalk.jpg" alt="Greenage walk" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/updates/oct22/greenagewalk.JPG" alt="Greenage walk" /></p>
 
 **Greenage Walks - May 1st and 8th**  
 The First Greenage walk took place on Sunday 1st May and the second walk on May 8th. The aim of this educational and fun walk was to help our children understand how our lives are made comfortable by so many people and machines working round the clock. 30 enthusiastic children attended the educational session. They learnt about a range of information from plants, sprinklers, grass and composters to Security functions, from water treatment plants to the fire hydrant system, from the filters of the pools to the CCTV.
@@ -32,7 +32,7 @@ A vaccination camp was organized by GOA and Motherhood hospital. 175 adults and 
 **Sawan Event - 30thJuly**  
 A renewed spirit of celebration spread amidst the Ladies of Greenage at the Sawan Event. It was an afternoon filled with talent, dance games and music.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/updates/oct22/saawan.png" alt="Saawan" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/updates/oct22/saawan.PNG" alt="Saawan" /></p>
 **Independence Day 15th August**  
 Greenage celebrated 75 glorious years of Independence. Flags fluttered on numerous balconies. A beautifully illuminated Greenage, a short stage show, breakfast by an NGO, lunch for all staff by Balaji Mandal and a plantation drive by seniors, were hallmarks of the celebration.
 
@@ -59,7 +59,7 @@ Juniper block came out the deserving winners, with Cedar and Fern runners up. As
 **Sunderkand Puja - 8th October**
 A Sunderkand puja was organized by the Balaji Seva Mandal, followed by prasad distribution for all the residents and staff of Greenage.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/updates/oct22/balajimandal.jpg" alt="balaji seva mandal" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/updates/oct22/balajimandal.JPG" alt="balaji seva mandal" /></p>
 **Karwa Chauth - 11th to 13th October**
 The Juniper hall was abuzz with soft music and ladies celebrating, as 10 mehndi artists demonstrated their craft on more than 5 hundred hands! This was followed by a puja and some fun activities, before the moon decided to emerge!
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/updates/oct22/karwa.jpg" alt="karwa chauth" /></p>

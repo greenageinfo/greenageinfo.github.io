@@ -2,16 +2,18 @@
 .bundle
 .jekyll-cache
 .jekyll-metadata
+.vite_opt_cache
 .vs
 _site
-
-# Ignore hidden folders #
-# This takes care of .tmp, .sass-cache, and many others #
-.*/
+bun.lockb
+cache
+dist
+node_modules
 
 # Ignore OS generated files #
 .DS_Store*
-ehthumbs.db
+ehthumbs.dbw
+Icon?
 Thumbs.db
 
 # Ignore packages #

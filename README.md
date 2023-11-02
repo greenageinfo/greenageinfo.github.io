@@ -29,21 +29,23 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 
 ### T0D0
 
-[] Clean up the Newsletters
+[] Clean up the Newsletters.
+[] webmaster@greenage.life (create/re-direct)
+[] Google Analytics (Who has this?)
 [] URLs
-	+ /library/ - /amenities/library
-	+ /promotions/ - /policies/events
-	+ /shops/ - /policies/commercial
-	+ /greenagecares/ - /info/greenage-cares
-	+ /segregation/ - /policies/waste-segregation
-	+ /covid/ - /info/covid-19
-	+ /pets/ - /policies/pets
 	+ /registration/ - /apps
+	+ /library/ - /amenities/library
 	+ /internet/ - /amenities/internet
+	+ /greenagecares/ - /info/greenage-cares
+	+ /covid/ - /info/covid-19
+	+ /secondsale/ - /info/secondary-sale
 	+ /moveout/ - /relocation/move-out
 	+ /transfer/ - /relocation/internal
 	+ /interiors/ - /relocation/renovations-interiors
 	+ /stickers/ - /relocation/stickers
-	+ /secondsale/ - /info/secondary-sale
 	+ /extendedbalconies/ - /policies/extended-balconies
-	+ /flatleakages/ - 
+	+ /flatleakages/ - /policies/leakages-units
+	+ /promotions/ - /policies/events
+	+ /shops/ - /policies/commercial
+	+ /segregation/ - /policies/waste-segregation
+	+ /pets/ - /policies/pets

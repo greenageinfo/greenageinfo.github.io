@@ -43,4 +43,4 @@ GOA office will affix the new sticker to your vehicle. Old Greenage stickers, if
 
 Sign in the register to acknowledge that you received the sticker.
 
-More info: GOA [Office Contacts and Details](/contact)
+__More info: GOA [Office Contacts and Details](/contact)__

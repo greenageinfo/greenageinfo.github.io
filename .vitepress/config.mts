@@ -25,7 +25,7 @@ export default defineConfig({
 
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
-    logo: { src: '/greenage-logo/greenage-logo.svg' },
+    logo: { src: '/greenage-logo.svg' },
     siteTitle: 'Greenage',
     search: { provider: 'local' },
 
@@ -72,11 +72,12 @@ export default defineConfig({
         'apps.md',
         'visitor.md',
         'contact.md',
+        'contribute.md',
         'privacy.md',
         'amenities',
         'info',
-        'relocation',
         'policies',
+        'relocation',
         'newsletters',
       ],
       excludeFiles: ['README.md'],

@@ -108,9 +108,4 @@ Here is a simple list of Dos and Donts for us to keep Greenage a better place to
 	+ Do not be threatening or disrespectful to other members in the groups. Members indulging in personal attacks will be banned from the forums.
 	+ Do not post any Content that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, porn, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable in the posts/threads.
 
-GOA office contacts (9.30AM to 1.30PM and 2.30 to 6PM):    
-
-- salarpuria-greenage+goaoffice@apnacomplex.com
-- Phone +91-80-40984649
-- Intercom: 111120    
-
+__More info: GOA [Office Contacts and Details](/contact)__

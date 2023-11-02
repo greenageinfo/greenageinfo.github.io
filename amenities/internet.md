@@ -14,7 +14,7 @@ Wherever possible, it is advisable to use a wired connection as they are always 
 
 Be aware that any Wi-Fi router that you use will have its signal limited due to the thick concrete walls in Greenage. You are advised to use Wi-Fi or LAN extenders, or invest in a [Wi-Fi mesh system](https://medium.com/nerd-for-tech/what-is-mesh-wifi-network-7a17f10322f1). The thoroughput and function of your [Wi-Fi](https://notes.oinam.com/technology/wi-fi/) signal will depend on the types, and specs of the routers you choose.
 
-_This page is contributed by [Brajeswar](https://brajeshwar.com), a resident of Greenage._
+> Contributor: [Brajeshwar](https://brajeshwar.com) (a Greenage resident).
 
 
 [^cat5e]: [Category 5 cable](https://en.wikipedia.org/wiki/Category_5_cable) (Cat 5) is a twisted pair cable for computer networks. Since 2001, the variant commonly in use is the Category 5e specification (Cat 5e).

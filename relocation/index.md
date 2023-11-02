@@ -59,5 +59,4 @@ It is [mandatory to register](/apps) on Apnacomplex first, followed by MyGate. Y
 
 **Important:** Penalty will be levied for unauthorized move-in, detected after the flat has been occupied. 
 
-GOA office contacts - 9.30AM - 1.30PM and 2.30PM - 6.00PM.  salarpuria-greenage+goaoffice@apnacomplex.com
-Phone : 080-40984649
+__More info: GOA [Office Contacts and Details](/contact)__

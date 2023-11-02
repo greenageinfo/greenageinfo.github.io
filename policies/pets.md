@@ -23,6 +23,4 @@ Don'ts
 3. DO NOT use common areas for pet grooming
 4. In the Pet Play Zone, Pet owners are advised to strictly adhere to guidelines and minimize the noise in that area
 
-GOA office contacts (9.30AM to 1.30PM and 2.30 to 6PM)    
-salarpuria-greenage+goaoffice@apnacomplex.com.    
-Phone : 080-40984649. Intercom: 111120
+__More info: GOA [Office Contacts and Details](/contact)__

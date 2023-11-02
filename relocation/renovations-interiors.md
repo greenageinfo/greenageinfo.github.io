@@ -25,4 +25,4 @@ All such types of works that need material movement by truck, employment of work
 10. No debris must be left in the common areas. It must be disposed of in the designated debris disposal areas in basements. If the interior works include any approved civil works by GOA (such as tiles replacement etc.) the debris generated need to be either  transported out by the owner or charges need to be paid to the GOA approved vendors for having it done. 
 11. Use of liquor, drugs, tobacco, pan masala by workers is prohibited.
 
-More info: GOA [Office Contacts and Details](/contact)
+__More info: GOA [Office Contacts and Details](/contact)__

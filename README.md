@@ -29,7 +29,8 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 
 ### T0D0
 
-- URLs
+[] Clean up the Newsletters
+[] URLs
 	+ /library/ - /amenities/library
 	+ /promotions/ - /policies/events
 	+ /shops/ - /policies/commercial

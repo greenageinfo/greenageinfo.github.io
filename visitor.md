@@ -23,7 +23,7 @@ All visitor vehicles are expected to leave on same day. If you are staying in Gr
 
 ## While you are at Greenage
 
-You will need to follow the resident [Code of Conduct](/coc/), just as the other residents do. Enquire with your host when you are in doubt.
+You will need to follow the resident [Code of Conduct](/policies/coc), just as the other residents do. Enquire with your host when you are in doubt.
 
 
 

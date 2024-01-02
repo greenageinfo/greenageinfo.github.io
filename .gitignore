@@ -2,6 +2,7 @@
 .bundle
 .jekyll-cache
 .jekyll-metadata
+.obsidian
 .vite_opt_cache
 .vs
 _site

@@ -43,6 +43,10 @@ export default defineConfig({
       { text: 'Contact', link: '/contact' },
     ],
 
+    socialLinks: [
+      { icon: 'instagram', link: 'https://www.instagram.com/greenagelife' },
+    ],
+
     footer: {
       message: 'Greenage Owners Association.',
       copyright: 'Copyright © 2012-present.'

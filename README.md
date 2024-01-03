@@ -29,10 +29,10 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 
 ### T0D0
 
-[] Clean up the Newsletters
-[] webmaster@greenage.life (create/re-direct)
-[] Google Analytics (Who has this?)
-[] URLs
+- [] Clean up the Newsletters
+- [] webmaster@greenage.life (create/re-direct)
+- [] Google Analytics (Who has this?)
+- [] URLs
 - /registration/ - /apps
 - /library/ - /amenities/library
 - /internet/ - /amenities/internet

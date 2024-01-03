@@ -1,6 +1,6 @@
 # Apps
 
-Greenage residents uses a few apps to make living here a smoother experience. It is mandatory for all owners and tenants to be registered on both Apnacomplex and myGate.
+Greenage residents uses a few apps to make living here a smoother experience. It is mandatory for owners, and residents to be registered on both [Apnacomplex](https://www.apnacomplex.com) and [MyGate](https://mygate.com).
 
 > For tenants, please ask your Owners to add your details to the apps. You can edit your details and preferences once added.
 
@@ -25,4 +25,4 @@ Greenage uses the “myGate” app as a visitor and delivery management solution
 
 ## WhatsApp
 
-WhatsApp is very common and everyone is already using it. This is `non-mandatory` but it is easier. Once you are reside in Greenage, ask one of your neighbors or friends, to the the main "Greenage" Community. Once in the community, pick and Join or Request-to-Join the group(s) of your choice.
+WhatsApp is very common and everyone is already using it. This is `non-mandatory` but it is easier. Once you are reside in Greenage, ask one of your neighbors or friends, to add/invite you to the main "Greenage" Community. Once in the community, pick and Join or Request-to-Join the group(s) of your choice.

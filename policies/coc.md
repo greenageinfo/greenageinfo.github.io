@@ -4,15 +4,15 @@
 
 If you are new to Greenage, or in doubt about what is the right thing to do, please make time to read the Residents' [Code of Conduct](https://drive.google.com/file/d/1L2xcPNFgWEW6HnjhuAr5e3l1wknyjoKV/) (Google Docs).
 
-Here is a simple list of Dos and Donts for us to keep Greenage a better place to live in. This is by no means comprehensive and only serves as a quick reference. Please refer to the code of conduct for all the rules and regulations. 
+Here is a simple list of Dos and Donts for us to keep Greenage a better place to live in. This is by no means comprehensive and only serves as a quick reference. Please refer to the code of conduct for all the rules and regulations.
 
 ## Care for the Environment and Neighbours
 
 - Dos
-	+ You must segregate Wet, Dry, Reject and e-Waste as per the law and only use newspaper liners in the bins. Please see the <a href="{{site.baseurl}}/segregation">segregation guidelines here</a>
+	+ You must [segregate](/policies/waste-segregation) Wet, Dry, Reject and e-Waste as per the law and only use newspaper liners in the bins.
 	+ Please take care to ensure you maintain the flat well and there is no damage caused to neighbouring flats or common areas due to negligence.
-	+ Please take care to ensure there is no excessive noise from your flat that is causing disturbance. Follow the timings allowed when you are doing <a href="{{site.baseurl}}/interiors">interiors or renovations</a>.  Any such excessive disturbance to neighbours in the night (11PM - 6AM) will be liable to penalties.
-	+ <a href="{{site.baseurl}}/dues">Pay your bills on time</a> to avoid interest, penalties and disconnection of services
+	+ Please take care to ensure there is no excessive noise from your flat that is causing disturbance. Follow the timings allowed when you are doing interiors or renovations.  Any such excessive disturbance to neighbours in the night (11PM - 6AM) will be liable to penalties.
+	+ [Pay your bills](/info/dues) on time to avoid interest, penalties and disconnection of services
 - Donts
 	+ Disposing waste or littering in common areas is prohibited. Avoid throwing trash into toilets.
 	+ Avoid plucking of flowers and walking on lawns in the gardens.
@@ -22,8 +22,8 @@ Here is a simple list of Dos and Donts for us to keep Greenage a better place to
 ## Vehicles, Speed Limits and Parking
 
 - Dos
-	+ It is must for all residents to <a href="{{site.baseurl}}/stickers">get a vehicle identification sticker</a> for their 4-wheeler and 2-wheelers. No exceptions.
-	+ <a href="{{site.baseurl}}/visitor">Visitors must only park their vehicles in the Visitor Parking spots</a> in Greenage. For visitor parking overnight or for extended period, contact GOA office.
+	+ It is must for all residents to get a vehicle identification sticker for their 4-wheeler and 2-wheelers. No exceptions.
+	+ [Visitors](/visitor) must only park their vehicles in the Visitor Parking spots. For visitor parking overnight or for extended period, contact GOA office.
 	+ Adhere to speed limit of 20 km/hour across Greenage.
 	+ Follow the traffic signs and one-way restrictions
 - Donts
@@ -39,7 +39,7 @@ Here is a simple list of Dos and Donts for us to keep Greenage a better place to
 - Dos
 	+ Use only the designated areas for sports and playing. Other common areas shall not be used.
 	+ Keep the lifts and other common areas clean. Avoid littering, spitting or mutilation anywhere in Greenage.
-	+ Only use service lifts for carrying heavy objects. Interior and move/in and out personnel must only use the service lifts 
+	+ Only use service lifts for carrying heavy objects. Interior and move/in and out personnel must only use the service lifts
 - Donts
 	+ Do not place any furniture or other personal objects in lobbies and other common areas.
 	+ Feeding of stray dogs and birds inside Greenage is discouraged.
@@ -89,10 +89,10 @@ Here is a simple list of Dos and Donts for us to keep Greenage a better place to
 ## Interiors and Move in/outs
 
 - Dos
-	+ Owners wanting to sell their flats are <a href="{{site.baseurl}}/secondsale">required to obtain an NOC</a> to the effect that they have cleared all dues payable to GOA
-- ​Interior work must be carried out only with prior consent from GOA. You must give an undertaking that <a href="{{site.baseurl}}/interiors">rules and regulation related for interior works</a> will be followed, before being given permission. 
+	+ Owners wanting to sell their flats are [required to obtain an NOC](/info/secondary-sale) to the effect that they have cleared all dues payable to GOA
+- ​Interior work must be carried out only with prior consent from GOA. You must give an undertaking that rules and regulation related for interior works will be followed, before being given permission.
 - Inform GOA office once the interior works are completed
-- <a href="{{site.baseurl}}/categories#Moving-in-or-out">Move in/out and transfers will need prior approval</a> from GOA to allow truck movement and registration
+- Move in/out and transfers will need prior approval from GOA to allow truck movement and registration
 - Donts
 	+ No structural alteration (such as breaking of walls), changes to the layout of the apartment or changes to the exterior appearance of the apartments (such as changing of balcony grills, windows or doors) is allowed.
 	+ No work should be carried out in common areas during interiors/renovation. No debris should be left in the common areas during or after the completion of the work.

@@ -12,7 +12,7 @@ Wherever possible, it is advisable to use a wired connection as they are always 
 
 ## Wi-Fi connections to rooms within the flats
 
-Be aware that any Wi-Fi router that you use will have its signal limited due to the thick concrete walls in Greenage. You are advised to use Wi-Fi or LAN extenders, or invest in a [Wi-Fi mesh system](https://medium.com/nerd-for-tech/what-is-mesh-wifi-network-7a17f10322f1). The thoroughput and function of your [Wi-Fi](https://notes.oinam.com/technology/wi-fi/) signal will depend on the types, and specs of the routers you choose.
+Be aware that any Wi-Fi router that you use will have its signal limited due to the thick concrete walls in Greenage. You are advised to use Wi-Fi or LAN extenders, or invest in a [Wi-Fi mesh system](https://en.wikipedia.org/wiki/Wireless_mesh_network). The thoroughput and function of your [Wi-Fi](https://notes.oinam.com/technology/wi-fi/) signal will depend on the types, and specs of the routers you choose.
 
 > Contributor: [Brajeshwar](https://brajeshwar.com) (a Greenage resident).
 

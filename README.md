@@ -24,8 +24,8 @@ The current version is powered by [VitePress](https://vitepress.dev). Install th
 
 Install the needed plugins with `npm i -D plugin-name` and follow their usage instructions.
 
-- [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar)
 - [markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote)
+- [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar)
 
 ### T0D0
 

@@ -7,7 +7,7 @@ import footnote from 'markdown-it-footnote'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'en-US',
-  title: "Greenage Life",
+  title: "Greenage",
   description: "",
 
   ignoreDeadLinks: true,

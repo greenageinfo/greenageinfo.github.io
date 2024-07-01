@@ -10,18 +10,22 @@ Greenage uses ApnaComplex as an apartment management solution. Registration is m
 
 __Registering yourself on ApnaComplex is a two step process.__
 
-1. <a href="http://help.apnacomplex.com/knowledge-base/how-do-i-create-an-account-in-apnacomplex-2/">Create an Account in ApnaComplex</a>
-2. <a href="http://help.apnacomplex.com/knowledge-base/how-to-register-in-apnacomplex/"> Join Salarpuria Greenage apartment in ApnaComplex.</a> (select Salarpuria Greenage in the dropdown menu).
+1. [Create an Account](http://help.apnacomplex.com/knowledge-base/how-do-i-create-an-account-in-apnacomplex-2/)
+2. [Join Salarpuria Greenage Apartment](http://help.apnacomplex.com/knowledge-base/how-to-register-in-apnacomplex/) (select Salarpuria Greenage in the dropdown menu)
 
 To approve the registration request, it is mandatory that a sale deed (in case of owner) or lease agreement (in case of tenant) is available on record with Greenage Owners Association. Please contact GOA office to send supporting documents, if necessary. 
 
-You can <a href="http://help.apnacomplex.com/knowledge-base/how-can-a-member-change-hisher-email-id-if-this-is-changes-then-thus-that-mean-that-the-loginid-also-gets-changed/">change your reigstered email ID address</a> later if you need to do so. 
+You can [Change your reigstered email ID](http://help.apnacomplex.com/knowledge-base/how-can-a-member-change-hisher-email-id-if-this-is-changes-then-thus-that-mean-that-the-loginid-also-gets-changed/) later if you need to do so. 
 
 ## MyGate
 
-Greenage uses the “myGate” app as a visitor and delivery management solution. Please note that registration on Apnacomplex is mandatory to start using the myGate app.
+Greenage uses [myGate](https://mygate.com/) as a visitor and delivery management solution. Please note that registration on Apnacomplex is mandatory to start using the myGate app.
 
-<a href="https://mygate.com/faqs"> Download the app from iOS / Android App store </a> Go to Settings > Add Flat/Villa/Workplace and follow the steps to select ‘Salarpuria Greenage’ from the list. Once Admin approves the request you can start using the app.
+Download the app from iOS / Android App store.
+
+Go to Settings > Add Flat/Villa/Workplace
+
+and follow the steps to select ‘Salarpuria Greenage’ from the list. Once Admin approves the request you can start using the app.
 
 ## WhatsApp
 

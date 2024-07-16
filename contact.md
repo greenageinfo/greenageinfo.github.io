@@ -6,6 +6,5 @@ You will find here the contact numbers of clinics, police, helpdesk, facilities,
 
 - Timing: `9:30AM - 1:30PM` • LUNCH • `2:30PM - 6:00PM`
 - Email salarpuria-greenage+goaoffice@apnacomplex.com
-- Phone +91-80-40984649
-- Helpdesk +91-9620218358
+- Helpdesk <tel>+91-8904177646</tel>
 - Intercom `111120`

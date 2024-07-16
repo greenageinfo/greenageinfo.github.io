@@ -53,3 +53,5 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 #### v1.0
 
 - Cloudflare Pages (was CNAME to @) greenageinfo-github-io.pages.dev
+
+Host: Netlify (2024JUL)

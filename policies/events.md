@@ -170,13 +170,6 @@ __Available Channels for Promotions and Events;__
 </table>
 
 
-<p>
-<a target="_blank" href="https://drive.google.com/file/d/1fF6cRu40dmbGbyDQvZvKYnVog7dNwVeR/view?usp=sharing">Download Rate Chart PDF</a>
-</p>
+GOA retains the right to approve or reject the requests from the sponsors and cancellation of events in case of unforeseen circumstances.
 
-<p>
-GOA retains the right to approve or reject the requests from the sponsors and cancellation of events in case of unforeseen circumstances.</p> 
-<p>
 Please contact us at salarpuria-greenage+events@apnacomplex.com and greenage.association@gmail.com for any questions or clarifications.
-</p>
-

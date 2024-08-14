@@ -6,16 +6,16 @@ Please abide by the regulations listed below to ensure the value of the communic
 
 Here are the guidelines, and usage rules for the most active groups/forums in ApnaComplex;
 
-1. **Classified** is meant for sharing any Greenage resident/apartment complex-related classified information with the Residents of Greenage.
-	- Residents can filter the email ID, `salarpuria-greenage+classifieds@apnacomplex.com`
-2. **Car Pool** is to be used for greenage-related car pools facilitating travel for our Greenage residents.
-	- Classifieds and Ads are not to be broadcast on this forum.
-	- Residents can filter the email ID, `salarpuria-greenage+carpool@apnacomplex.com`
-3. **Community** (General Forum) is to be used only to interact with residents of Greenage on social matters regarding the apartment complex.
+1. **Community** (General Forum) is to be used only to interact with residents of Greenage on social matters regarding the apartment complex.
 	- Classifieds and Ads are not to be broadcast on this forum.
 	- Moderation of all emails will be considered if the misuse of this forum continues.
 	- _Fines will also be considered if regular violators are seen causing nuisances._
-	- Residents can filter the email ID, `salarpuria-greenage@apnacomplex.com`
+	- Residents can filter the email ID `salarpuria-greenage@apnacomplex.com`
+1. **Classified** is meant for sharing any Greenage resident/apartment complex-related classified information with the Residents of Greenage.
+	- Residents can filter the email ID `salarpuria-greenage+classifieds@apnacomplex.com`
+1. **Car Pool** is to be used for greenage-related car pools facilitating travel for our Greenage residents.
+	- Classifieds and Ads are not to be broadcast on this forum.
+	- Residents can filter the email ID `salarpuria-greenage+carpool@apnacomplex.com`
 
 We recommend self-regulation by our esteemed residents in line with the guidelines above.
 

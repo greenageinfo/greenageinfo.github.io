@@ -1,6 +1,6 @@
 # Online Policy & Etiquette
 
-Greenages leverages many online/web [tools/app](/apps) to make it easier to operate and improve the lives of every resident.
+Greenages leverages many online/web [tools/apps](/apps) to make it easier to operate and improve the lives of every resident.
 
 Please abide by the regulations listed below to ensure the value of the communication on ApnaComplex and MyGate is retained, our messages should not create nuisance value and we align by the Code of Conduct of Greenage.
 

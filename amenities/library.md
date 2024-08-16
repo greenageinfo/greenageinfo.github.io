@@ -31,12 +31,10 @@ The Greenage Library, located in Juniper block, boasts of 3500+ fiction, non-fic
 
 ## Library Timings & Contacts
 
-Library is open from 8.30AM - 11.30AM and from 4PM - 7PM, on six days in a week.
-<mark>Library is closed on Monday for restocking and cataloguing of books.</mark> 
-
-Intercom : 333330  
-
-Email: library@greenage.life
+- Library is open from `8.30 am - 11.30 am` and from `4:00 pm - 7:00 pm` for six days a week.
+- Library is closed on Monday for restocking and cataloguing of books.
+- Intercom: `333330`
+- Email [library@greenage.life](mailto:library@greenage.life)
 
 ## Reading in the Library
 

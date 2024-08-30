@@ -4,9 +4,9 @@ This rate chart details the different promotion channels and events available at
 
 ## Available Channels for Promotions and Events
 
-- <a href="#ads">Physical Advertisements</a>
-- <a href="#stall">On Premises Promotion Stall</a>
-- <a href="#fleamarket">Flea Market</a>
+- <a href="#physical-and-digital-advertisements">Physical Advertisements</a>
+- <a href="#on-premises-promotion-stall">On Premises Promotion Stall</a>
+- <a href="#flea-market">Flea Market</a>
 
 > [!IMPORTANT]
 > All rates mentioned below are in INR (₹) exlusive of GST.

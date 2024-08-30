@@ -78,10 +78,28 @@ __Available Channels for Promotions and Events;__
 
 <table>
     <tr>
-        <td>Type</td>
-        <td>Rate(excl. GST) in INR</td>
-        <td>Hours</td>
+      <td>Type</td>
+      <td>₹ Rate (excl. GST)</td>
+      <td>Hours</td>
         <td>Details</td>
+    </tr>
+    <tr>
+        <td rowspan="5">Car / Large Product display</td>
+        <td rowspan="5">25,000</td>
+        <td rowspan="5">8</td>
+        <td>10 ft x 10 ft space for stalls and standee</td>
+    </tr>
+    <tr>
+        <td>Electricity (if needed) - 5Amps will be provided.</td>
+    </tr>
+    <tr>
+        <td>No Canopy /Tables/Chairs provided.</td>
+    </tr>
+    <tr>
+        <td>Posters A4 for 1 week.</td>
+    </tr>
+    <tr>
+        <td>3 Emails through Apnacomplex to all residents.</td>
     </tr>
     <tr>
         <td rowspan="5">Full day</td>

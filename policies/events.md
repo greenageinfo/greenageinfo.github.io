@@ -2,77 +2,25 @@
 
 This rate chart details the different promotion channels and events available at Greenage and the associated charges from Greenage Owners Association (GOA).
 
-__Available Channels for Promotions and Events;__
+## Available Channels for Promotions and Events
 
 - <a href="#ads">Physical Advertisements</a>
 - <a href="#stall">On Premises Promotion Stall</a>
 - <a href="#fleamarket">Flea Market</a>
 
+> [!IMPORTANT]
+> All rates mentioned below are in INR (₹) exlusive of GST.
 
 ## Physical and Digital Advertisements
 
-<table>
-    <thead>
-       <tr>
-        <td>Type</td>
-        <td>Location</td>
-        <td>Size Print</td>
-        <td>Per Week</td>
-        <td>Per Month</td>
-        <td>Per Quarter</td>
-        </tr>
-    </thead>
-        <tr>
-        <td>Standee</td>
-        <td>All Blocks</td>
-        <td>5"x2"</td>
-        <td>10,000</td>
-        <td>25,000</td>
-        <td>60,000</td>
-    </tr>
-    <tr>
-        <td>Standee</td>
-        <td>Per Block</td>
-        <td>5"x2"</td>
-        <td>3,000</td>
-        <td>8,000</td>
-        <td>20,000</td>
-    </tr>
-    <tr>
-        <td>Standees</td>
-        <td>Club House</td>
-        <td>5"x2"</td>
-        <td>5,000</td>
-        <td>20,000</td>
-        <td>60,000</td>
-    </tr>
-    <tr>
-        <td>Poster</td>
-        <td>All Blocks</td>
-        <td>A4</td>
-        <td>5,000</td>
-        <td>15,000</td>
-        <td>35,000</td>
-    </tr>
-    <tr>
-        <td>Poster</td>
-        <td>Per Block</td>
-        <td>A4</td>
-        <td>500</td>
-        <td>1,800</td>
-        <td>5,000</td>
-    </tr>
-    <tr>
-        <td>Banner</td>
-        <td>Association Designated places</td>
-        <td>Max 5"x5"</td>
-        <td>4,000</td>
-        <td>10,000</td>
-        <td>24,000</td>
-    </tr>
-    <tfoot><tr><td colspan="6">All rates in INR exlusive of GST</td></tr></tfoot>
-</table>
-
+| Type     | Location                      | Size Print | Per Week | Per Month | Per Quarter |
+|----------|-------------------------------|------------|---------:|----------:|------------:|
+| Standee  | All Blocks                    | 5"x2"      | 10,000   | 25,000    | 60,000      |
+| Standee  | Per Block                     | 5"x2"      | 3,000    | 8,000     | 20,000      |
+| Standees | Club House                    | 5"x2"      | 5,000    | 20,000    | 60,000      |
+| Poster   | All Blocks                    | A4         | 5,000    | 15,000    | 35,000      |
+| Poster   | Per Block                     | A4         | 500      | 1,800     | 5,000       |
+| Banner   | Association Designated places | Max 5"x5"  | 4,000    | 10,000    | 24,000      |
 
 ## On Premises Promotion Stall
 
@@ -151,41 +99,17 @@ __Available Channels for Promotions and Events;__
 
 ## Flea Market
 
-<table>
-    <tr>
-        <td>Type</td>
-        <td>Base Cost per unit of 10x10 sq ft.</td>
-        <td>Min Units</td>
-        <td>Max Units</td>
-        <td>Min Rate</td>
-        <td>Max Rate</td>
-        <td>Max Hours </td>
-    </tr>
-    <tr>
-        <td>Full day</td>
-        <td>6,500</td>
-        <td>25</td>
-        <td>35</td>
-        <td>1,12,500</td>
-        <td>1,57,500</td>
-        <td>11</td>
-    </tr>
-    <tr>
-        <td colspan="7">All rates in INR exlusive of GST</td>
-    </tr>
-     <tr>
-        <td colspan="7">10 ft x 10 ft space for stalls and standee</td>
-    </tr>
-    <tr>
-        <td colspan="7">Electricity (if needed) - 5 Amps will be provided</td>
-    </tr>
-    <tr>
-        <td colspan="7">No Canopy /Tables/Chairs provided</td>
-    </tr>
-    <tr>
-        <td colspan="7">1 Flea market email through Apnacomplex to all residents</td>
-    </tr>
-</table>
+- **Type:** Full Day
+- **Base Cost per unit of 10x10 SQFT:** ₹6,500
+- **Min Units:** 25
+- **Max Units:** 35
+- **Min Rate:** ₹1,12,500
+- **Max Rate:** ₹1,57,500
+- **Max Hours:** 11-Hours
+- 10 ft x 10 ft space for stalls and standee.
+- Electricity (if needed) (5 Amps will be provided).
+- NO canopy, tables, or chairs provided.
+- One Flea market email through Apnacomplex to all residents.
 
 
 GOA retains the right to approve or reject the requests from the sponsors and cancellation of events in case of unforeseen circumstances.

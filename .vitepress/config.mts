@@ -8,7 +8,7 @@ import footnote from 'markdown-it-footnote'
 export default defineConfig({
   lang: 'en-US',
   title: "Greenage",
-  description: "",
+  description: "The official community portal of Salarpuria Sattva Greenage.",
 
   ignoreDeadLinks: true,
   lastUpdated: true,

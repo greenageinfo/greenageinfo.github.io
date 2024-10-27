@@ -29,9 +29,9 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 
 ### T0D0
 
-- [] Clean up the Newsletters
-- [] webmaster@greenage.life (create/re-direct)
-- [] Google Analytics (Who has this?)
+- [~] Clean up the Newsletters
+- [x] webmaster@greenage.life (create/re-direct)
+- [~] Google Analytics (Who has this?)
 - [] URLs
 - /registration/ - /apps
 - /library/ - /amenities/library
@@ -50,8 +50,9 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 - /segregation/ - /policies/waste-segregation
 - /pets/ - /policies/pets
 
-#### v1.0
+## Timeline
 
-- Cloudflare Pages (was CNAME to @) greenageinfo-github-io.pages.dev
-
-Host: Netlify (2024JUL)
+- v1.0
+	+ Cloudflare Pages (was CNAME to @) greenageinfo-github-io.pages.dev
+- v2.0
+	+ Hosted on Netlify (2024JUL) for the pretty-URL support with VitePress.

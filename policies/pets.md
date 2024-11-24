@@ -22,6 +22,6 @@ Don'ts
 2. Please DO NOT let your Pets pee or poop in any of the common areas in Greenage, including the lawns 
 3. DO NOT use common areas for pet grooming
 4. In the Pet Play Zone, Pet owners are advised to strictly adhere to guidelines and minimize the noise in that area
-5. Stary clear of the pathways in the gardens for pet walking to avoid any mishaps
+5. Stay clear of the pathways in the gardens for pet walking to avoid any mishaps
 
 __More info: GOA [Office Contacts and Details](/contact)__

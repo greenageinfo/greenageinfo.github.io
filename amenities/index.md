@@ -38,15 +38,19 @@ Greenage boasts of a wide range of outdoor and indoor amenities for the resident
 - Table Tennis (also in Juniper Sports area)
 - Badminton Courts (required: pre-booking)
 - Squash Courts (required: pre-booking)
-- Billiards
+- Billiards Tables
 - Yoga & Aerobics Rooms
-- Chess, Carroms and Cards
+- Cards Room
+- Chess
+- Carroms
+- Foosball
 
 ## Multi-purpose Party Halls and Meeting Rooms
 
 ![Greenage Amenities](/assets/images/greenagepic18.jpg)
 
 - Party Halls - in Juniper and Hibiscus.
+- Tea Pavilion - Near Amphitheatre
 - Meeting Rooms - in Cedar and Juniper Blocks.
 
 ## Library
@@ -54,3 +58,7 @@ Greenage boasts of a wide range of outdoor and indoor amenities for the resident
 ![Greenage Library](/assets/images/greenagepic29.png)
 
 Greenage [Library](/amenities/library), located in Juniper block, boasts of 3500+ fiction, non-fiction and children books. You can also read newspapers and magazines in the Library.
+
+## Projection Room
+
+A 50-seat projection room in Clubhouse can be booked for screening of personal media content. 

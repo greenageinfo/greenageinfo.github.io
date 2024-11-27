@@ -57,7 +57,7 @@ Greenage boasts of a wide range of outdoor and indoor amenities for the resident
 
 ![Greenage Library](/assets/images/greenagepic29.png)
 
-Greenage [Library](/amenities/library), located in Juniper block, boasts of 3500+ fiction, non-fiction and children books. You can also read newspapers and magazines in the Library.
+Greenage [Library](/amenities/library), located in Juniper block, boasts of 5000+ fiction, non-fiction and children books. You can also read newspapers and magazines in the Library.
 
 ## Projection Room
 

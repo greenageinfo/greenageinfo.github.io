@@ -56,3 +56,4 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 	+ Cloudflare Pages (was CNAME to @) greenageinfo-github-io.pages.dev
 - v2.0
 	+ Hosted on Netlify (2024JUL) for the pretty-URL support with VitePress.
+=======

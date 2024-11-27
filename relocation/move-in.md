@@ -1,4 +1,4 @@
-# Relocation
+# Move-in
 
 > Moving in from outside of Greenage.
 

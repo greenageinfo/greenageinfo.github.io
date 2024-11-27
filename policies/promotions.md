@@ -1,10 +1,10 @@
-# Events & Promotions
+# Promotions
 
 This rate chart details the different promotion channels and events available at Greenage and the associated charges from Greenage Owners Association (GOA).
 
-## Available Channels for Promotions and Events
+## Available Channels 
 
-- <a href="#physical-and-digital-advertisements">Physical Advertisements</a>
+- <a href="#physical-and-digital-advertisements">Physical & Digital Advertisements</a>
 - <a href="#on-premises-promotion-stall">On Premises Promotion Stall</a>
 - <a href="#flea-market">Flea Market</a>
 
@@ -22,7 +22,7 @@ This rate chart details the different promotion channels and events available at
 | Poster   | Per Block                     | A4         | 500      | 1,800     | 5,000       |
 | Banner   | Association Designated places | Max 5"x5"  | 4,000    | 10,000    | 24,000      |
 
-## On Premises Promotion Stall
+## On Premises Promotion Stalls
 
 <table>
     <tr>
@@ -97,7 +97,7 @@ This rate chart details the different promotion channels and events available at
     <tfoot><tr><td colspan="6">All rates in INR exlusive of GST.</td></tr></tfoot>
 </table>
 
-## Flea Market
+## Flea Markets
 
 - **Type:** Full Day
 - **Base Cost per unit of 10x10 SQFT:** ₹6,500
@@ -114,4 +114,4 @@ This rate chart details the different promotion channels and events available at
 
 GOA retains the right to approve or reject the requests from the sponsors and cancellation of events in case of unforeseen circumstances.
 
-Please contact us at salarpuria-greenage+events@apnacomplex.com and greenage.association@gmail.com for any questions or clarifications.
+Please contact us at goa-events@googlegroups.com and greenage.association@gmail.com for any questions or clarifications.

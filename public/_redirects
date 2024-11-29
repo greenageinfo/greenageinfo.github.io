@@ -1,4 +1,4 @@
-/registration       /apps
+/registration       /info/apps
 /library            /amenities/library
 /internet           /amenities/internet
 /greenagecares      /info/greenage-cares
@@ -10,7 +10,7 @@
 /stickers           /relocation/stickers
 /extendedbalconies  /policies/extended-balconies
 /flatleakages       /policies/leakages-units
-/promotions         /policies/events
+/promotions         /policies/promotions
 /shops              /policies/commercial
 /segregation        /policies/waste-segregation
 /pets               /policies/pets

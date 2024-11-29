@@ -61,4 +61,4 @@ Greenage [Library](/amenities/library), located in Juniper block, boasts of 5000
 
 ## Theatre
 
-A 70-seat theatre located in Clubhouse can be booked for screening of personal media content. 
+A 70-seat theatre, located in Clubhouse, can be booked for screening of personal media content. 

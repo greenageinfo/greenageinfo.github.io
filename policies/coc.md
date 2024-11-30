@@ -15,9 +15,8 @@ Here is a simple list of Dos and Donts for us to keep Greenage a better place to
 - Donts
 	+ Disposing waste or littering in common areas is prohibited. Avoid throwing trash into toilets.
 	+ Avoid plucking of flowers and walking on lawns in the gardens.
-	+ Do not place hanging potted plants and other similar fixtures to railings or ceilings of the balconies. Injuries due to falling down of such objects can lead to penalties and legal action.
+        + Do not place hanging potted plants and other similar fixtures to railings or ceilings of the balconies. Injuries due to falling down of such objects can lead to penalties and legal action.
         + Do not fix AC blower units to common area walls of the buildings. They are a safety hazard. You must fix them within your balcony area.
-        + No structural alterations, layout changes or exterior modifications allowed to apartments in Greenage
 
 
 ## Vehicles, Speed Limits and Parking

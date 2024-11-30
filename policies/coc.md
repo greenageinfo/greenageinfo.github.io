@@ -10,13 +10,13 @@ Here is a simple list of Dos and Donts for us to keep Greenage a better place to
 
 - Dos
 	+ You must [segregate](/policies/waste-segregation) Wet, Dry, Reject and e-Waste as per the law and only use newspaper liners in the bins.
-	+ Please take care to ensure you maintain the flat well and there is no damage caused to neighbouring flats or common areas due to negligence.
-	+ Please take care to ensure there is no excessive noise from your flat that is causing disturbance. Follow the timings allowed when you are doing interiors or renovations.  Any such excessive disturbance to neighbours in the night (11PM - 6AM) will be liable to penalties.
+	+ Make sure there is no excessive noise from your flat. Follow the timings allowed for interiors or renovations.  Excessive disturbance to neighbours in the night (11PM - 6AM) will be liable to penalties.
 	+ [Pay your bills](/info/dues) on time to avoid interest, penalties and disconnection of services
 - Donts
 	+ Disposing waste or littering in common areas is prohibited. Avoid throwing trash into toilets.
 	+ Avoid plucking of flowers and walking on lawns in the gardens.
-	+ Do not throw any objects from the windows or balconies. Injuries due to such incidents can lead to penalties and legal action
+	+ Do not place hanging potted plants and other similar fixtures to railings or ceilings of the balconies. Injuries due to falling down of such objects can lead to penalties and legal action.
+        + Do not fix AC blower units to common area walls of the buildings. They are a safety hazard. You must fix them within your balcony area.
 
 
 ## Vehicles, Speed Limits and Parking
@@ -52,28 +52,26 @@ Here is a simple list of Dos and Donts for us to keep Greenage a better place to
 
 - Dos
 	+ Please ensure your visitors are properly authorized by you, before they enter Greenage. All visitors must comply with Greenage Resident Code of Conduct. The onus is on the hosts to ensure this.
-	+ Report any suspicious persons or unauthorized entries to Security immediately.
+	+ Report any safety hazards, suspicious persons or unauthorized entries to Security immediately.
 	+ Inform the Estate Manager  with your contact details, if your flat will be unoccupied for more than a week. It is advisable to leave a key with neighbours to avoid any forced access to your apartment. Please close all water, power and gas valves to avoid leakages and potential penalties due to damages to other flats.
-	+ Report any safety hazards and security incidents immediately. Report to the facility team if your smoke detectors are not operational
+	+ Report to the facility team if your smoke detectors are not operational
 - Donts
 	+ Do not encourage or allow unauthorized vendors or daily helps to the flats. All vendors and daily helps must register with GOA.
-	+ o not employ black listed daily helps. Check with estate manager when in doubt.
+	+ Do not employ black listed daily helps. Check with estate manager when in doubt.
 	+ Do not encourage or allow daily helps to stay beyond the employment hours. Instruct the daily helps not to bring any unauthorized items (including gutka, paan) to Greenage
 
 ## Pets
 
 - Dos
-	+ Follow the municipal laws and other regulations including SPCA.
-	+ Please ensure you fill in the pet registration form online or in the GOA office.
+	+ You must register your pet with GOA and submit valid vaccination certificates 
 	+ Please take your Pet ONLY to the designated areas.
 	+ Have a leash on the pet.
 	+ Pick up after your pet and trash in the designated bins. You must carry the bags and other required items with you.
-	+ Ensure your pet is given the necessary vaccinations.
 	+ Please use service lifts and ensure your pets or on tight leash while exiting or entering lifts. Ask permission of the passengers in the lift, if it is occupied
 - Donts
 	+ Please ensure your pets are not allowed to play on the lawns or other common areas in Greenage. (except the designated play area). They should not be allowed to dig the grass.
 	+ Please DO NOT let your Pets pee or poop in any of the common areas in Greenage, including the lawns.
-	+ DO NOT use common areas for pet grooming.
+	+ DO NOT use common areas for pet grooming or training.
 	+ In the Pet Play Zone, Pet owners are advised to strictly adhere to guidelines and minimize the noise in that area
 
 ## Sports, Games and Clubhouse

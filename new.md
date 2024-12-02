@@ -10,7 +10,7 @@ You must [complete the move-in process](/relocation/) at least one day before yo
 
 ## Apps: Apnacomplex and MyGate
 
-[Registration on Apnacomplex and MyGate](/apps) is mandatory. 
+[Registration on Apnacomplex and MyGate](/info/apps) is mandatory. 
 
 Greenage uses ‘ApnaComplex’ as an apartment management solution. All [invoices and payments](/info/dues), official communication, documents and complaints are through Apnacomplex.  
 
@@ -18,7 +18,7 @@ We also use the ‘MyGate’ app for visitor management. Visitors and daily help
 
 ## Register your vehicles and get a sticker
 
-All your vehicles with a valid parking lot must have a Greenage issued [sticker](/relocation/stickers/). Visit the GOA office to get one. 
+All your vehicles with a valid parking lot must have a Greenage issued [sticker](/policies/stickers/). Visit the GOA office to get one. 
 
 ## Residents' Code of Conduct
 
@@ -34,4 +34,4 @@ Join our forums to make your integration into the community easier. Head to the 
 
 ## Pay Bills
 
-You can [pay the dues](/info/dues) for maintenance, gas and other services through different payment channels. Late payments [attract interest and will lead to withdrawal of maintenance services](https://drive.google.com/file/d/1ao0VQjafsTa7Ckv9gibEmt5gfRe0vBlN/). Pay attention to the due dates on the invoices.
+You can [pay the dues](/info/dues) for maintenance, gas and other services through different payment channels. Late payments [attract interest and will lead to withdrawal of maintenance services](https://drive.google.com/drive/folders/193JDN5bCTfq3qvyHuoyegZttD_Xzd3v4). Pay attention to the due dates on the invoices.

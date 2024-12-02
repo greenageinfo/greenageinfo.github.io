@@ -1,4 +1,4 @@
-# Stickers
+# Vehicle Stickers
 
 > Guide to get vehicle parking stickers
 

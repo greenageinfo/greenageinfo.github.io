@@ -27,8 +27,8 @@ Greenage boasts of a wide range of outdoor and indoor amenities for the resident
 
 - Lap pool - between Juniper and Oak.
 - Family pool - between Juniper and Hibiscus.
-- Indoor Heated Swimming Pool / Jacuzzi Bath - in Clubhouse (required: pre-booking).
-- Indoor Steam and Sauna - in Clubhouse (required: pre-booking).
+- Indoor Heated Swimming Pool / Jacuzzi Bath - in Clubhouse.
+- Indoor Steam and Sauna - in Clubhouse.
 
 ## Indoor Fitness, Games & Sports (Clubhouse)
 
@@ -36,8 +36,8 @@ Greenage boasts of a wide range of outdoor and indoor amenities for the resident
 
 - Gym
 - Table Tennis (also in Juniper Sports area)
-- Badminton Courts (required: pre-booking)
-- Squash Courts (required: pre-booking)
+- Badminton Court
+- Squash Courts
 - Billiards Tables
 - Yoga & Aerobics Rooms
 - Cards Room
@@ -59,6 +59,6 @@ Greenage boasts of a wide range of outdoor and indoor amenities for the resident
 
 Greenage [Library](/amenities/library), located in Juniper block, boasts of 5000+ fiction, non-fiction and children books. You can also read newspapers and magazines in the Library.
 
-## Projection Room
+## Theatre
 
-A 50-seat projection room in Clubhouse can be booked for screening of personal media content. 
+A 70-seat theatre, located in Clubhouse, can be booked for screening of personal media content. 

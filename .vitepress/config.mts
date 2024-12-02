@@ -38,7 +38,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Visitor', link: '/visitor' },
+      { text: 'Visitor', link: '/visitors' },
       { text: 'Photos', link: 'https://photos.app.goo.gl/D1JwF7qMFKDoFRpn6' },
       { text: 'Library', link: 'https://www.libib.com/u/greenage/' },
       { text: 'Contact', link: '/contact' },
@@ -74,16 +74,15 @@ export default defineConfig({
       // sortMenusOrderNumerically: false,
       manualSortFileNameByPriority: [
         'new.md',
-        'apps.md',
-        'visitor.md',
+        'visitors.md',
         'contact.md',
-        'contribute.md',
-        'privacy.md',
         'amenities',
         'info',
         'policies',
         'relocation',
         'newsletters',
+        'contribute.md',
+        'privacy.md',
       ],
       excludeFiles: ['README.md'],
       excludeFolders: ['node_modules', 'public', 'tmp'],

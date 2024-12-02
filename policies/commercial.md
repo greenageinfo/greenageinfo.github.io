@@ -1,6 +1,4 @@
-# Commercial
-
-> Dos and Donts for Commercial Areas
+# Commercial Dos and Don'ts
 
 This page containts the policy that will uniformly apply to all commercial areas for promoting a convenient and sustainable commercial space in our community. 
 

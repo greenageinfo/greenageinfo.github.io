@@ -1,5 +1,5 @@
 
-# To-Dos before vacations
+# Vacation Checklist
 
 In the past, there were many instances of water leakages and other incidents from the unoccupied flats, when the residents were away for a long period. This has led to damage to their own flat,  neighbouring flats and also the common areas. 
 

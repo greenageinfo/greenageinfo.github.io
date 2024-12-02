@@ -7,8 +7,8 @@
 /movein             /relocation/move-in
 /moveout            /relocation/move-out
 /transfer           /relocation/internal
-/interiors          /relocation/renovations-interiors
-/stickers           /relocation/stickers
+/interiors          /policies/renovations-interiors
+/stickers           /policies/stickers
 /extendedbalconies  /policies/extended-balconies
 /flatleakages       /policies/leakages-units
 /promotions         /policies/promotions

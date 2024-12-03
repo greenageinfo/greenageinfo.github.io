@@ -2,13 +2,8 @@
 
 > Internal Movement within Greenage (from one flat to another).
 
-Move-in and Move-out process must be completed a day before the date of actual movement.
-
-**All outstanding dues against the flat must be cleared before internal movement.**  
-
-Please note that truck movements are only allowed between 9.30AM and 6.30PM. 
-
-Please ensure that the dues shown against the flat are cleared well in advance. [Settling the accounts](/info/dues) by credit/debit card in GOA office will attract bank fees.  
+> [!IMPORTANT]
+> **Move-in and Move-out process must be completed a day before your actual movement. All outstanding dues must be cleared before the internal movement.Please note that truck movements are only allowed between __1.00PM and 6.30PM__.**
 
 [Download](https://drive.google.com/file/d/1nOXS8V3wUE-gkKrS7Kpt1Zjab2gZIXZB/) the internal movement form or collect it from the GOA office in Alpine Block.
 
@@ -39,8 +34,9 @@ Please ensure that the dues shown against the flat are cleared well in advance. 
 
 ## Next Steps after the internal movement process is complete
 
-It is mandatory [to register on Apnacomplex first, followed by MyGate](/apps). You can change the [parking stickers](/relocation/stickers) to the Moving-in flat in GOA office. If the stickers are stolen or destroyed, resident will have to give an undertaking in writing about the lost stickers.  
+It is mandatory [to register on Apnacomplex first, followed by MyGate](/info/apps). You can change the [parking stickers](/info/stickers) to the Moving-in flat in GOA office. If the stickers are stolen or destroyed, resident will have to give an undertaking in writing about the lost stickers.  
 
+[Settling the accounts](/info/dues) by credit/debit card in GOA office will attract bank fees. 
 
 **Important:** If the tenant moves out without completing move-out formalities, any pending dues will need to be cleared by the owner. Penalty will be levied against the flat for un-authroized move-out detected later.
 

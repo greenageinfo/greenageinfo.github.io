@@ -1,11 +1,8 @@
 # Move Out
 
-Move-out process must be completed a day before the move-out.
-
-**All outstanding dues must be cleared before move-out.**  
-  
-Please note that truck movements are only allowed between 9.30AM and 6.30PM. Please ensure that the dues shown against the flat are cleared well in advance. [Settling the accounts](/info/dues) by credit/debit card in GOA office will attract bank fees.  
-
+> [!IMPORTANT]
+> **Move-out process must be completed a day before your actual move-out date. All outstanding dues must be cleared before move-out.Please note that truck movements are only allowed between __1.00PM and 6.30PM__.**
+ 
 [Download](https://drive.google.com/file/d/1xaqn3oTt4O72uYr8ajQdaDucfSvkmNLI/) the move-out form or collect it from the GOA office in Alpine Block.
 
 ## Owner
@@ -37,6 +34,8 @@ Owner to first notify GOA office, from registered mail ID in Apnacomplex, about 
 * Handover parking stickers to the GOA office. If the stickers are stolen or destroyed, the resident will have to give an undertaking in writing about it. 
 
 Collect receipt and security pass to allow entry of packers & movers.
+
+[Settling the accounts](/info/dues) by credit/debit card in GOA office will attract bank fees. 
 
 **Important:** If the tenant moves out without completing move-out formalities, any pending dues will need to be cleared by the owner. Penalty will be levied against the flat for un-authroized move-out detected later.
 

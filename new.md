@@ -6,7 +6,7 @@ You can access [all the key documents](https://bit.ly/greenage-info) needed for 
 
 ## Move-in Process
 
-You must [complete the move-in process](/relocation/) at least one day before you plan to move-in to Greenage
+You must [complete the move-in process](/relocation/move-in) at least one day before you plan to move-in to Greenage
 
 ## Apps: Apnacomplex and MyGate
 

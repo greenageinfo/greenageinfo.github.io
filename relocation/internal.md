@@ -5,6 +5,7 @@
 > [!IMPORTANT]
 > **Move-in and Move-out process must be completed a day before your actual movement. All outstanding dues must be cleared before the internal movement.Please note that truck movements are only allowed between __1.00PM and 6.30PM__.**
 
+
 [Download](https://drive.google.com/file/d/1nOXS8V3wUE-gkKrS7Kpt1Zjab2gZIXZB/) the internal movement form or collect it from the GOA office in Alpine Block.
 
 ## Owner
@@ -34,7 +35,7 @@
 
 ## Next Steps after the internal movement process is complete
 
-It is mandatory [to register on Apnacomplex first, followed by MyGate](/info/apps). You can change the [parking stickers](/info/stickers) to the Moving-in flat in GOA office. If the stickers are stolen or destroyed, resident will have to give an undertaking in writing about the lost stickers.  
+It is mandatory [to register on Apnacomplex first, followed by MyGate](/info/apps). You can change the [parking stickers](/policies/stickers) to the Moving-in flat in GOA office. If the stickers are stolen or destroyed, resident will have to give an undertaking in writing about the lost stickers.  
 
 [Settling the accounts](/info/dues) by credit/debit card in GOA office will attract bank fees. 
 

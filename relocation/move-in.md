@@ -1,10 +1,10 @@
 # Move-in
 
 > [!IMPORTANT]
-> **Move-in process must be completed a day before your actual move-in date. All outstanding dues must be cleared before move-in.Please note that truck movements are only allowed between __1.00PM and 6.30PM__.**
+> **Move-in process must be completed a day before your actual move-in date. All outstanding dues must be cleared before move-in. Please note that truck movements are only allowed between __1.00PM and 6.30PM__.**
 
 
-<a href="https://drive.google.com/file/d/1kQPqDrCo1iCklCM6XU6luaVg1izZpx-D/view?usp=sharing">Download</a> the move-in form or collect it from the GOA office in Alpine Block.
+[Download](https://drive.google.com/file/d/1kQPqDrCo1iCklCM6XU6luaVg1izZpx-D/view?usp=sharing) the move-in form or collect it from the GOA office in Alpine Block.
 
 ## Owner
 
@@ -51,7 +51,7 @@ Collect receipt and security pass to allow entry of packers & movers.
 
 GOA office will share Welcome docket to the email mentioned in the move-in form
 
-It is [mandatory to register](/info/apps) on Apnacomplex first, followed by MyGate. You can [collect parking stickers](/info/stickers) from GOA office for your vehicle. 
+It is [mandatory to register](/info/apps) on Apnacomplex first, followed by MyGate. You can [collect parking stickers](/policies/stickers) from GOA office for your vehicle. 
 
 **Important:** Penalty will be levied for unauthorized move-in, detected after the flat has been occupied. 
 

@@ -1,8 +1,9 @@
 # Move Out
 
 > [!IMPORTANT]
-> **Move-out process must be completed a day before your actual move-out date. All outstanding dues must be cleared before move-out.Please note that truck movements are only allowed between __1.00PM and 6.30PM__.**
+> **Move-out process must be completed a day before your actual move-out date. All outstanding dues must be cleared before move-out. Please note that truck movements are only allowed between __1.00PM and 6.30PM__.**
  
+
 [Download](https://drive.google.com/file/d/1xaqn3oTt4O72uYr8ajQdaDucfSvkmNLI/) the move-out form or collect it from the GOA office in Alpine Block.
 
 ## Owner

@@ -6,7 +6,7 @@ If you are new to Greenage, or in doubt about what is the right thing to do, ple
 
 Here is a simple list of Dos and Don'ts to make Greenage a better place to live in. This is by no means comprehensive and only serves as a quick reference. Please refer to the code of conduct for all the rules and regulations.
 
-Please [check this page](policies/commercial.md) for Dos and Don'ts for commercial areas.
+Please [check this page](/policies/commercial.md) for Dos and Don'ts for commercial areas.
 
 ## Care for the Environment and Neighbours
 

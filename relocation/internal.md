@@ -3,7 +3,7 @@
 > Internal Movement within Greenage (from one flat to another).
 
 > [!IMPORTANT]
-> **Move-in and Move-out process must be completed a day before your actual movement. All outstanding dues must be cleared before the internal movement.Please note that truck movements are only allowed between __1.00PM and 6.30PM__.**
+> **Move-in and Move-out process must be completed a day before your actual movement. All outstanding dues must be cleared before the internal movement. Please note that truck movements are only allowed between __1.00PM and 6.30PM__.**
 
 
 [Download](https://drive.google.com/file/d/1nOXS8V3wUE-gkKrS7Kpt1Zjab2gZIXZB/) the internal movement form or collect it from the GOA office in Alpine Block.

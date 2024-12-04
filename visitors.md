@@ -9,7 +9,7 @@ Are you visiting Greenage? This is a quick note to help you plan your visit bett
 
 > Please ask your host for a **visitor pass**.
 
-Greenage uses MyGate for apartment security management. You can [request a visitor code](https://mygate.com/blog/request-visit-code/) from your host if you are already a MyGate user. Alternatively, you can ask your host to [create a visitor code](https://help.mygate.in/articles/9669-how-do-i-invite-guests) for you. 
+Greenage uses MyGate for apartment security management. You can [request a visitor code](https://mygate.com/blog/feature-in-focus/request-visit-code/) from your host if you are already a MyGate user. Alternatively, you can ask your host to [create a visitor code](https://help.mygate.in/articles/123614-how-do-i-invite-a-guest#:~:text=Select%20the%20Date%20and%20time,be%20shared%20with%20the%20guest) for you. 
 
 You must share the visitor code with security at the time of entry. 
 

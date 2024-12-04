@@ -9,9 +9,13 @@ As per our resident code of conduct and the prevailing laws, a leakage between t
 **Where fair and appropriate, the cost of repairs shall be borne by the owner/resident of the flat where the issue has originated.**
 
 1. When a leakage has been observed by the occupier of the affected flat, they must first do a proper due diligence and then approach the owner/resident of the flat where the issue may have originated along with supporting photographs and request to have the issue resolved. 
+
 2. The owner/resident of the flat who received such a request must take up the repairs to arrest the leakages within 2 weeks. In the event of significant leakage (e.g. flooding of the apartment below) the issue must be addressed immediately. 
+
 3. In the event of delay or denial from the owner/resident of the flat, the occupier of the affected flat can approach the facility manager with a written complaint. 
+
 4. The facility team will engage an external vendor to investigate and report to the owners/residents. 
+
 5. Responsibility and cost of repairs will be decided as follows:
     * Issue is completely from the flat on which the complaint was raised (100% of the cost of repair to arrest the leakages be borne by the flat where the problem originated)
     * Issue need to be jointly addressed by both flats (Cost shared by both flats)

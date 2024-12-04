@@ -29,4 +29,4 @@ and follow the steps to select ‘Salarpuria Greenage’ from the list. Once Adm
 
 ## WhatsApp
 
-WhatsApp is very common and everyone is already using it. This is `non-mandatory` but it is easier. Once you are reside in Greenage, ask one of your neighbors or friends, to add/invite you to the main "Greenage" Community. Once in the community, pick and Join or Request-to-Join the group(s) of your choice.
+WhatsApp is very common and everyone is already using it. This is `non-mandatory` but it is easier. Once you are a resident in Greenage, ask one of your neighbors or friends, to add/invite you to the main "Greenage" Community. Once in the community, pick and Join or Request-to-Join the group(s) of your choice.

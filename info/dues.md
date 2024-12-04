@@ -1,14 +1,13 @@
 # Paying your Bills
 
-
 > [!Important]
-> All residents must be registered on Apnacomplex to receive the invoices raised by Greenage Owners Association via the Apnacomplex portal/app or to the registered email.</p>
+> All residents must be registered on Apnacomplex to receive the invoices raised by Greenage Owners Association via the Apnacomplex portal/app or to the registered email.
 
 There are two kinds of dues to be paid:
 - Maintenace dues : Invoiced quarterly and payable within 30 days 
 - Gas consumption dues : Invoiced monthy and payble on 5th of the following month
 
-==[Late payments](https://drive.google.com/file/d/1hOtaW-hPTwfQFSGuOPL2Kw0wNGawi366/view?usp=sharing) attract interest and will lead to withdrawal of maintenance services==. Pay attention to the due dates on the invoices.
+[Late payments](https://drive.google.com/file/d/1hOtaW-hPTwfQFSGuOPL2Kw0wNGawi366/view?usp=sharing) attract interest and will lead to withdrawal of maintenance services. Pay attention to the due dates on the invoices.
 
 Payments are accepted through multiple channels. You can choose any one of the following methods based on what is most convenient to you.
 

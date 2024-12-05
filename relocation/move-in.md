@@ -55,4 +55,4 @@ It is [mandatory to register](/info/apps) on Apnacomplex first, followed by MyGa
 
 **Important:** Penalty will be levied for unauthorized move-in, detected after the flat has been occupied. 
 
-__More info: GOA [Office Contacts and Details](/contact)__
+__More info: GOA [Office Contacts and Details](/info/contact)__

@@ -19,4 +19,4 @@ If you are doing a secondary sale transcation of a property in Greenage, as a bu
 
 **Important:** Penalty will be levied for unauthorized move-in, detected after the flat has been occupied. 
 
-More info: GOA [Office Contacts and Details](/contact)
+More info: GOA [Office Contacts and Details](/info/contact)

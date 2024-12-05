@@ -49,4 +49,4 @@ This page containts the policy that will uniformly apply to all commercial areas
 
 #### References
 
-[Resident Code of Conduct](https://drive.google.com/file/d/1oeAYJqgulc5ufhW8nCLxAJVAGfeJNsqb/)
+[Resident Code of Conduct](https://drive.google.com/drive/folders/193JDN5bCTfq3qvyHuoyegZttD_Xzd3v4)

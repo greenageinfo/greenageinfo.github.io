@@ -40,4 +40,4 @@ Collect receipt and security pass to allow entry of packers & movers.
 
 **Important:** If the tenant moves out without completing move-out formalities, any pending dues will need to be cleared by the owner. Penalty will be levied against the flat for un-authroized move-out detected later.
 
-__More info: GOA [Office Contacts and Details](/contact)__
+__More info: GOA [Office Contacts and Details](/info/contact)__

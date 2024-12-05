@@ -2,7 +2,7 @@
 
 > Resident Code of Conduct - Dos and Don'ts
 
-If you are new to Greenage, or in doubt about what is the right thing to do, please make time to read the Residents' [Code of Conduct](https://drive.google.com/drive/folders/193JDN5bCTfq3qvyHuoyegZttD_Xzd3v4) (Google Docs).
+If you are new to Greenage, or in doubt about what is the right thing to do, please make time to read the Residents' [Code of Conduct](https://drive.google.com/file/d/1fa5vsBRZF8dCShzC4NzYWzmmgno8waC-/view) (Google Docs).
 
 Here is a simple list of Dos and Don'ts to make Greenage a better place to live in. This is by no means comprehensive and only serves as a quick reference. Please refer to the code of conduct for all the rules and regulations.
 

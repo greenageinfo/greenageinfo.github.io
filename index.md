@@ -12,5 +12,5 @@ We are a community of **1,676 flats**, grouped into 10 Towers/Blocks. About 70% 
 
 - Address: Salarpuria Greenage, 7 Hosur Main Road, Next to Oxford College, Bommanahalli, Bengaluru - 560068
 - [Google Maps](https://goo.gl/maps/DJB7JAjHRAXRLe3W8)
-- [Contact Info & Details](/contact)
+- [Contact Info & Details](/info/contact)
 - [Download Forms and Useful Documents](https://bit.ly/greenage-info)

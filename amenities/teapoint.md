@@ -3,7 +3,7 @@
 
 ### Booking
 
-Bookings can be made through ApnaComplex or by contacting a Club House executive. The booking will only be confirmed upon receipt of payment. Cash payments or transfers to staff accounts are not accepted.
+Bookings can be made through ApnaComplex or by contacting a Club House executive. The booking will only be confirmed upon receipt of payment. In case of non-receipt of payment within 48 hours of the request, the slot will be cancelled and opened for other residents to book. Cash payments or transfers to staff accounts are not accepted.
 
 ### Cancellation & Refunds
 

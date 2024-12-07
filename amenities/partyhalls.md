@@ -3,7 +3,7 @@
 
 ### Booking
 
-Bookings can be made through ApnaComplex or by contacting a Club House executive. The booking will only be confirmed upon receipt of payment.In case of non-receipt of payment within 48 hours of the request, the slot will be cancelled and opened for other residents to book. Cash payments or transfers to staff accounts are not accepted.
+Bookings can be made through ApnaComplex or by contacting a Club House executive. The booking will only be confirmed upon receipt of payment. In case of non-receipt of payment within 48 hours of the request, the slot will be cancelled and opened for other residents to book. Cash payments or transfers to staff accounts are not accepted.
 
 ### Cancellation & Refunds
 
@@ -42,7 +42,8 @@ If food and beverages are outsourced, the host must ensure that the vendors do n
 
 The Party Hall will be provided free for Community events that benefit all residents of Greenage, such as a blood donation camps, Block level get togethers and other events marked on the event calendar of Greenage
 
-- Request for community events in the Party Halls shall be written to GOA at goa-events@googlegroups.com, at least 2 weeks prior to the event. GOA reserves the right to the number of free slots given for the event. Any more slots required must be paid for.
+- Request for community events in the Party Halls shall be written to GOA at goa-events@googlegroups.com, at least 2 weeks prior to the event. 
+- GOA reserves the right to decide the number of free slots given for the event. Any more slots required must be paid for.
 - If the Party Hall is already booked by any other resident, the request may be rejected
 - The requestor for Party Hall will be considered as the organizer of the event. Any penalities related to misuse or damage to the Party Hall is invoiced to the flat of the organizer. 
 - The Party Hall provided free of charge shall not be used for personal parties or for any kind of monetary benefit. No stalls will be permitted.

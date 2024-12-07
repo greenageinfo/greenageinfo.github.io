@@ -4,9 +4,10 @@
 
 There are many unresolved issues related to seepages between the units in Greenage. This policy is to provide clarity on resolution of such issues, while minimizing the disputes.
 
-As per our resident code of conduct and the prevailing laws, a leakage between the units must be addressed by the owner/resident of the flat where the problem originated. The owner/resident of such a flat must extend full cooperation to the affected neighbour and the association committee for undertaking the repairs. 
+> [!Note]
+> As per our resident code of conduct and the prevailing laws, a leakage between the units must be addressed by the owner/resident of the flat where the problem originated. The owner/resident of such a flat must extend full cooperation to the affected neighbour and the association committee for undertaking the repairs. 
 
-**Where fair and appropriate, the cost of repairs shall be borne by the owner/resident of the flat where the issue has originated.**
+==Where fair and appropriate, the cost of repairs shall be borne by the owner/resident of the flat where the issue has originated.==
 
 1. When a leakage has been observed by the occupier of the affected flat, they must first do a proper due diligence and then approach the owner/resident of the flat where the issue may have originated along with supporting photographs and request to have the issue resolved. 
 

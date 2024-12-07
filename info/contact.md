@@ -5,8 +5,8 @@ You can find other contacts in myGate app under [local directory](https://mygate
 ## Greenage Owners Assoication (GOA) Office
 
 - Timing: `9:30AM - 1:30PM` • LUNCH • `2:30PM - 6:00PM`
-- Email goa-office@googlegroups.com
-- Contact at <tel>+91-89041 77646</tel> or <tel>+91-080-40984649</tel>
+- Email `goa-office@googlegroups.com`
+- Contact at `<tel>+91-89041 77646</tel>` or `<tel>+91-080-40984649</tel>`
 - Intercom `111120`
 
 ## Greenage Helpdesk

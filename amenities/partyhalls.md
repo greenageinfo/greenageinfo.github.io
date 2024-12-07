@@ -20,7 +20,7 @@ If the hall is closed by GOA due to unavoidable circumstances, charges will be f
 Maximum 80 people are allowed inside the Party Hall at any given time. Children parties are permitted only when accompanied by adult members. Special caution shall be exercised by the parent of the child hosting party that no accidents/incidents take place and that club property is not damaged.
 
 ### Adhere to the Timings
-The party hall is available for residents to rent for 5 hours, from (10am to 3pm and 5pm to 10pm. The hall will be available for decoration purposes 1 hour prior to the booking. The morning slot must vacate the hall promptly at 3pm to allow for cleaning and setup for the evening slot. The evening slot must vacate the hall promptly at 10pm.
+The party hall is available for residents to rent for 5 hours, (from 10am to 3pm and 5pm to 10pm). The hall will be available for decoration purposes 1 hour prior to the booking. The morning slot must vacate the hall promptly at 3pm to allow for cleaning and setup for the evening slot. The evening slot must vacate the hall promptly at 10pm.
 
 ### What is not permitted
 - No Loud music
@@ -36,7 +36,7 @@ Any damage to any area of the party hall, to the chairs & tables and other equip
 
 ### Vendors & Caterers
 
-If food and beverages are outsourced, the host must ensure that the vendors do not violate or damage club property. It will be the host's responsibility to brief the vendors. Vendors must clean the area they used. Hosts should instruct caterers not to spill oil on the grass near the outdoor cooking area
+If food and beverages are outsourced, the host must ensure that the vendors do not violate or damage the property. It will be the host's responsibility to brief the vendors. Vendors must clean the area they used. Hosts should instruct caterers not to spill oil on the grass near the outdoor cooking area
 
 ### Party Hall for Community Events
 

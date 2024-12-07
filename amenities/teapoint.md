@@ -20,7 +20,7 @@ If the tea pavilion is closed by GOA due to unavoidable circumstances, charges w
 Maximum 15 people are allowed inside the Tea Pavilion. Children parties are permitted only when accompanied by adult members. Special caution shall be exercised by the parent of the child hosting party that no accidents/incidents take place and that there are no damages
 
 ### Adhere to the Timings
-The Tea Pavilion is available for residents to rent for 4 hours, from (10am to 2pm and 5pm to 9pm. The place will be available for decoration purposes 1 hour prior to the booking. The morning slot must vacate the hall promptly at 2pm to allow for cleaning and setup for the evening slot. The evening slot must vacate the hall promptly at 9pm.
+The Tea Pavilion is available for residents to rent for 4 hours, (from 10am to 2pm and 5pm to 9pm). The place will be available for decoration purposes 1 hour prior to the booking. The morning slot must vacate the place promptly at 2pm to allow for cleaning and setup for the evening slot. The evening slot must vacate the place promptly at 9pm.
 
 ### What is not permitted
 - No Loud music

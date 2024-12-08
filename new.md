@@ -26,7 +26,7 @@ Make yourself familiar with the [rules and regulations](/policies/coc) governing
 
 ## Set-up your Utilities
 
-Piped gas connection will be available when you move-in. If not, contact GOA office. Multiple service providers are available for [broadband, TV and phone connections](/amenities/internet).
+Piped gas connection will be available when you move-in. If not, contact GOA office. Multiple service providers are available for [broadband, TV and phone connections](/info/internet).
 
 ## Community Forums
 

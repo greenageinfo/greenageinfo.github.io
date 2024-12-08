@@ -7,7 +7,7 @@ Please go to the Settings section in myGate App (click on the profile picture on
 ## New Tenants
 At the time of move-in, you can send the scanned rental agreement document to the GOA office to have it uploaded for your flat. 
 
-## What will be considered a Valid Rental Agreement
+## What is a Valid Rental Agreement
 
 The lease agreement must be signed by both parties and need to be on a stamp paper. It must have valid dates and expired contracts from previous years are not accepted. Please upload the full document with signature pages. In case of a multi-tenant flat, every tenant of the flat must have a valid rental agreement. 
 Without a valid rental agreement, the apartment may be deemed unoccupied in myGate.

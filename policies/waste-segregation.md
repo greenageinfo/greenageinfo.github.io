@@ -2,6 +2,7 @@
 
 Waste segregation at source is mandatory by law for the apartments of our size. All the flats must follow the below guidelines for segregation, to comply with BBMP guidelines.
 
+> [!Important]
 > Housekeeping staff will not pick up waste from the flats that do not segregate waste. As per BBMP rules for bulk generators, failure to segregate waste will attract a penalty of ₹500 for the first instance and subsequently ₹1,000 per instance.
 
 ## Wet Waste, Reject Waste and Dry Waste

@@ -28,8 +28,8 @@ Please [check this page](/policies/commercial.md) for Dos and Don'ts for commerc
 
 ### Dos
 
-1. It is must for all residents to get a vehicle identification sticker for their 4-wheeler and 2-wheelers. No exceptions.
-2. [Visitors](/visitor) must only park their vehicles in the Visitor Parking spots. For visitor parking overnight or for extended period, contact GOA office.
+1. It is a must for all residents to get a [vehicle identification sticker](/policies/stickers) for their 4-wheeler and 2-wheelers. No exceptions.
+2. [Visitors](/info/visitors) must only park their vehicles in the visitor parking spots. For visitor parking overnight or for extended period, contact GOA office.
 3. Adhere to speed limit of 20 km/hour across Greenage.
 4. Follow the traffic signs and one-way restrictions
 
@@ -63,9 +63,9 @@ Please [check this page](/policies/commercial.md) for Dos and Don'ts for commerc
 
 ### Dos
 
-1. Please ensure your visitors are properly authorized by you, before they enter Greenage. All visitors must comply with Greenage Resident Code of Conduct. The onus is on the hosts to ensure this.
+1. Please ensure your [visitors](/info/visitors) are properly authorized by you, before they enter Greenage. All visitors must comply with Greenage Resident Code of Conduct. The onus is on the hosts to ensure this.
 2. Report any safety hazards, suspicious persons or unauthorized entries to Security immediately.
-3. Inform the Estate Manager  with your contact details, if your flat will be unoccupied for more than a week. It is advisable to leave a key with neighbours to avoid any forced access to your apartment. Please close all water, power and gas valves to avoid leakages and potential penalties due to damages to other flats.
+3. Inform the Estate Manager  with your contact details, if your flat will be unoccupied for more than a week. Please close all water, power and gas valves. See here the detailed [vacation checklist](info/vacation).
 4. Report to the facility team if your smoke detectors are not operational
 
 ### Don'ts
@@ -78,7 +78,7 @@ Please [check this page](/policies/commercial.md) for Dos and Don'ts for commerc
 
 ### Dos
 
-1. You must register your pet with GOA and submit valid vaccination certificates 
+1. You must [register your pet](/policies/pets) with GOA and submit valid vaccination certificates 
 2. Please take your Pet ONLY to the designated areas.
 3. Have a leash on the pet.
 4. Pick up after your pet and trash in the designated bins. You must carry the bags and other required items with you.
@@ -86,7 +86,7 @@ Please [check this page](/policies/commercial.md) for Dos and Don'ts for commerc
 
 ### Don'ts
 
-1. Please ensure your pets are not allowed to play on the lawns or other common areas in Greenage. (except the designated play area). They should not be allowed to dig the grass.
+1. Please ensure your pets are not allowed to play on the lawns or other common areas in Greenage. (except the designated play area). Pedestrian pathways in the park areas shall not be used
 2. Please DO NOT let your Pets pee or poop in any of the common areas in Greenage, including the lawns.
 3. DO NOT use common areas for pet grooming or training.
 4. In the Pet Play Zone, Pet owners are advised to strictly adhere to guidelines and minimize the noise in that area
@@ -116,14 +116,14 @@ Please [check this page](/policies/commercial.md) for Dos and Don'ts for commerc
 ### Don'ts
 
 1. No structural alteration (such as breaking of walls), changes to the layout of the apartment or changes to the exterior appearance of the apartments (such as changing of balcony grills, windows or doors) is allowed.
-2. No work should be carried out in common areas during interiors/renovation. No debris should be left in the common areas during or after the completion of the work.
-3. No interior work should be carried out outside the allowed hours (9-6PM) or on Sundays/Publich holidays. Drilling is not allowed between 1-4PM.
+2. No work, including granite/wood cutting, should be carried out in common areas during interiors/renovation. No debris should be left in the common areas during or after the completion of the work.
+3. No interior work or drilling should be carried out outside the allowed hours (9-6PM) or on Sundays/Public holidays. Drilling is also not allowed between 1-4PM.
 
 ## Communications and forums
 
 ### Dos
 
-1. Please Treat ALL Residents who are in the forums with Respect and Courtesy.
+1. Please Treat ALL Residents who are in the forums with Respect and Courtesy.Read here the [online  policy & etiquette](/policies/online-etiquette/) 
 2. It is mandatory for all members to post in designated forum groups for each topic. Posts to wrong form groups could be rejected
 
 ### Don'ts

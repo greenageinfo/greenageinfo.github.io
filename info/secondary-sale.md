@@ -17,6 +17,7 @@ If you are doing a secondary sale transcation of a property in Greenage, as a bu
 3. If the buyer does not have a NOC in their possession from the seller, the buyer is obligated to clear the pending dues against the flat including  ₹ 15000 transfer fees payable by seller, (in addition to the ₹ 1000 transfer fees payable by the buyer), before doing any interior works or moving in to the newly bought property.
 
 
-**Important:** Penalty will be levied for unauthorized move-in, detected after the flat has been occupied. 
+> [!Important]
+> Penalty will be levied for unauthorized move-in, detected after the flat has been occupied. 
 
 More info: GOA [Office Contacts and Details](/info/contact)

@@ -1,6 +1,10 @@
 # Library
 
+
+![Greenage Library](/assets/images/library.png)
+
 The Greenage Library, located in Juniper block, boasts of 5000+ fiction, non-fiction and children books.You can also read newspapers and magazines in the Library. It is a community initiative to provide a convenient choice for residents to read the books of their liking and for children to improve their learning.
+
 
 ## Collections
 

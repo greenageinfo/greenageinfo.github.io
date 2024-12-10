@@ -1,5 +1,7 @@
 # Amenities
 
+![Greenage Club](/assets/images/club.jpg)
+
 Greenage boasts of a wide range of outdoor and indoor amenities for the residents. Few of the amenities, that are in high demand,need prior booking. Bookings are currently made through Apnacomplex. Please ensure you follow the guidelines for using the facilities to avoid inconvenince to other residents.
 
 → [Book your amenities](https://www.apnacomplex.com/facilities/directory/) on Apnacomplex.

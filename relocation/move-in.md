@@ -1,5 +1,9 @@
 # Move-in
 
+
+![Beatiful Greenage](/assets/images/buildings1.jpg)
+
+
 > [!IMPORTANT]
 > **Move-in process must be completed a day before your actual move-in date. All outstanding dues must be cleared before move-in. Please note that truck movements are only allowed between __1.00PM and 6.30PM__.**
 

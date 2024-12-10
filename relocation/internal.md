@@ -3,8 +3,8 @@
 > Internal Movement within Greenage (from one flat to another).
 
 
-![Beatiful Greenage](/assets/images/buildings1.jpg)
 
+![Greenage Pics](/assets/images/pool1.jpg)
 
 
 

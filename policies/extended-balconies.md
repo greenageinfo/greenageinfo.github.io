@@ -1,5 +1,7 @@
 # Extended Balconies
 
+![Greenage Balconies](/assets/images/balconies.jpg)
+
 > Important guidelines for flats with extended balconies
 
 If you are one of the flats with extended balconies in Greenage, you are expected to follow the below guidelines to ensure the safety and aesthetics of common areas are not compromised.

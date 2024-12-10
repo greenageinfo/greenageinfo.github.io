@@ -1,5 +1,7 @@
 # Waste Segregation
 
+![Greenage Gardens](/assets/images/gardens4.jpg)
+
 Waste segregation at source is mandatory by law for the apartments of our size. All the flats must follow the below guidelines for segregation, to comply with BBMP guidelines.
 
 > [!Important]

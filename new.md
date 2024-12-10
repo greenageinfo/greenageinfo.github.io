@@ -4,7 +4,9 @@
 ![Beautiful Greenage](/assets/images/gardens2.jpg)
 
 
-Welcome to Greenage! We will be glad to have you here in our community.
+Welcome to Greenage! :tada: :confetti_ball: :balloon:
+
+We will be glad to have you here in our community.
 
 You can access [all the key documents](https://bit.ly/greenage-info) needed for your move-in and to settle in Greenage.
 

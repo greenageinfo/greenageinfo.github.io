@@ -1,5 +1,7 @@
 # Renovations & Interiors
 
+![Beatiful Greenage](/assets/images/gardens1.jpg)
+
 Please ensure you are [Registered on Apnacomplex](/apps) as the owner of the flat. **All prior maintenance and other dues must be cleared to approve the renovation/ interior works.** In case you are a new owner a No Objection certificate from GOA will be required.
 
 1. [Download](https://drive.google.com/file/d/1zqjL4A99d88qwqFhHJaazukehehh3NkB/) the interior works form or collect it from GOA office in Alpine Block. You can also receive the form by email.

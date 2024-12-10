@@ -1,6 +1,10 @@
 
 # Vacation Checklist
 
+
+![Beatiful Greenage](/assets/images/duckpond.jpg)
+
+
 In the past, there were many instances of water leakages and other incidents from the unoccupied flats, when the residents were away for a long period. This has led to damage to their own flat,  neighbouring flats and also the common areas. 
 
 Please take the following precautions, before you leave the apartment unattended for many days.

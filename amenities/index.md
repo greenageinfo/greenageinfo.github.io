@@ -47,7 +47,7 @@ Greenage boasts of a wide range of outdoor and indoor amenities for the resident
 
 ## Multi-purpose Party Halls and Meeting Rooms
 
-![Greenage Amenities](/assets/images/greenagepic18.jpg)
+![Greenage Amenities](/assets/images/partyhall.jpg)
 
 - Party Halls - in Juniper and Hibiscus.
 - Tea Pavilion - Near Amphitheatre

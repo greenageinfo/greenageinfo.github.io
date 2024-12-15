@@ -1,6 +1,6 @@
 # Leakages between Flats
 
-![Beatiful Greenage](/assets/images/buildings3jpg)
+![Beatiful Greenage](/assets/images/buildings3.jpg)
 
 > Policy for inter-unit leakage issues between the flats
 

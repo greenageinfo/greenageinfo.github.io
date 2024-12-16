@@ -1,5 +1,5 @@
 
-# EV Charging
+# Electric Vehicle Chargers
 
 
 Greenage is one of the first societies in Bangalore to implement EV charging. Greenage has 2 EV charging stations.

@@ -3,7 +3,7 @@
 > The official community portal of Salarpuria Sattva Greenage.
 
 
-![Greenage Pics](/assets/images/collage1.png)
+![Greenage Pics](/assets/images/collage1.webp)
 
 Salarpuria Greenage is a residential complex on Hosur Road in Bengaluru. We are a short distance away from Koramangala and HSR Layout. The complex is located next to Oxford College and the Hongasandra metro station on the upcoming RV Road - Bommasandra 'Yellow line'.
   

@@ -11,7 +11,10 @@ Please take the following precautions, before you leave the apartment unattended
 
 1. Inform the facility to get the gas valve closed by the gas mechanic
 
-2. If you can reach the master valve in the kitchen pipeline duct that supplies water to kitchen,try and close that. If there is no access to the master valve, then close the inlet valve to the water purifier, washing machine/ dishwasher inlet valve and the other taps in the kitchen.
+2. If you can reach the master valve in the kitchen pipeline duct that supplies water to kitchen,try and close that. If there is no access to the master valve, then 
+	- Close the inlet valve to the water purifier
+	- Close the washing machine/ dishwasher inlet valve
+	- Ensure all teh other taps in the kitchen are closed
 
 3. There is a master valve in each bathroom. This valve is accessible if the false ceiling is opened in the shower area. This valve in each bath room should be closed.
 

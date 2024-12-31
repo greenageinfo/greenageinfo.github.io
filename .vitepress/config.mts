@@ -75,6 +75,7 @@ export default defineConfig({
       manualSortFileNameByPriority: [
         'new.md',
         'visitors.md',
+        'holidays.md',
         'amenities',
         'info',
         'policies',
